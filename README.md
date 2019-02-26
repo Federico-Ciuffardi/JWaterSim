@@ -6,6 +6,9 @@ Falling water simulation
 * Download the JTeris-X.Y.Z.jar from [releases](https://github.com/Federico-Ciuffardi/JWaterSim/releases)
 * run the jar as an executable:
 
+## tips
+r - for restart the simulation (generating a random layout of rocks)
+
 ## Versioning
 Using [SemVer](http://semver.org/) for versioning. For the versions available, see the [releases](https://github.com/Federico-Ciuffardi/JWaterSim/releases) 
 
