@@ -3,7 +3,7 @@ Falling water simulation
 
 ![](https://i.imgur.com/1pz9M6V.gif)
 ## How to use
-* Download the JTeris-X.Y.Z.jar from [releases](https://github.com/Federico-Ciuffardi/JWaterSim/releases)
+* Download the JWaterSim-X.Y.Z.jar from [releases](https://github.com/Federico-Ciuffardi/JWaterSim/releases)
 * run the jar as an executable:
 
 ## tips
